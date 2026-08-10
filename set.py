@@ -19,3 +19,9 @@ num.clear()'''
 
 new_num=num.copy()
 print(new_num)
+
+
+#membership function
+
+
+

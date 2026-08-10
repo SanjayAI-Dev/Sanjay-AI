@@ -21,5 +21,4 @@ print(detail)
 #sets
 
 '''
-details={'sajay',20,'kansas'}
-print(details)
+
