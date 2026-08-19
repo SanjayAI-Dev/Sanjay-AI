@@ -32,3 +32,5 @@ class Model(Car):
 model =Car()
 model.start()
 model.start()
+
+#multiple inheritance

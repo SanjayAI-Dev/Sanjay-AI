@@ -6,9 +6,6 @@
         2.float(float)
         3.string(str)
         4.boolean(bool)
-
-
-
 """
 
 a=10              #int

@@ -9,9 +9,9 @@
 
 """
 
-a=10
-b=10.5
-c="strings"
-d=bool
+a=10              #int
+b=10.5              #float
+c="strings"             #string
+d=bool                      #boolean
 
-print(a\n,b\n,c\n,d)
+print(a,b,c,d)
