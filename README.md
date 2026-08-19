@@ -11,5 +11,7 @@ git status
 
 git commit -m "Add Python practice files"
 
+git pull --rebase origin main
+
 git push origin main
 
